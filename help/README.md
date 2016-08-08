@@ -1,2 +1,2 @@
 # Help Center
-## This place is still under construction, check back again soon!
+## Select a help file above to begin.
