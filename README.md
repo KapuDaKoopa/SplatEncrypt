@@ -1,5 +1,8 @@
-# SplatEncrypt [NOT RELEASED TO THE PUBLIC YET, CHECK BACK SOON!]
+# SplatEncrypt
 ## Another program by MCMiners9, [click here](https://github.com/MCMiners9/SplatEncrypt/releases) to download it.
+
+## SplatEncrypt Download Availability
+### SplatEncrypt is currently `AVAILABLE` for download. `Last updated: 8/8/2016 by MCMiners9`
 
 ## What is SplatEncrypt?
 ### SplatEncrypt has nothing to do with Splatoon. The word Splat is there just because I wanted it to be there. But basically, SplatEncrypt is a file encryptor/decryptor and text encryptor/decryptor.
@@ -12,7 +15,4 @@
 
 ## Screenshots
 ![SplatEncrypt](http://i.imgur.com/b1OoPD3.png)
-
-## SplatEncrypt Download Availability
-### SplatEncrypt is currently `AVAILABLE` for download. `Last updated: 8/8/2016 by MCMiners9`
 
