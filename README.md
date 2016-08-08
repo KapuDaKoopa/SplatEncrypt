@@ -16,13 +16,13 @@
 ### That, my noob, is called "source code". It's here because if someone wants to download it and make changes to their personal copy of SplatEncrypt, they can.
 
 ## License
-###To viw the license, [click here](https://raw.githubusercontent.com/MCMiners9/SplatEncrypt/master/LICENSE)
+###To view the license, [click here](https://raw.githubusercontent.com/MCMiners9/SplatEncrypt/master/LICENSE)
 
 ## Help
 ###To get help, [click here](https://github.com/MCMiners9/SplatEncrypt/wiki) or download the source code and open the help folder.
 
 ## Auto Updating
-### I am working on a auto-updater for this project. You can view the ToDoList by going to [this link](https://github.com/MCMiners9/SplatEncrypt/releases)
+### I am working on a auto-updater for this project. You can view the ToDoList by going to [this link](https://github.com/MCMiners9/SplatEncrypt/)
 
 ## Contributing
 ### If you want to contribute, fork this repository, then make a new branch. Make all your changes in that branch, then submit a pull request.
