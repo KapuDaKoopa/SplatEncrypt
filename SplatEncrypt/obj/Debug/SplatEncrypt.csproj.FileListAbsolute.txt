@@ -1,0 +1,10 @@
+c:\users\sanel_000\documents\visual studio 2015\Projects\SplatEncrypt\SplatEncrypt\bin\Debug\SplatEncrypt.exe.config
+c:\users\sanel_000\documents\visual studio 2015\Projects\SplatEncrypt\SplatEncrypt\bin\Debug\SplatEncrypt.exe
+c:\users\sanel_000\documents\visual studio 2015\Projects\SplatEncrypt\SplatEncrypt\bin\Debug\SplatEncrypt.pdb
+c:\users\sanel_000\documents\visual studio 2015\Projects\SplatEncrypt\SplatEncrypt\obj\Debug\SplatEncrypt.csprojResolveAssemblyReference.cache
+c:\users\sanel_000\documents\visual studio 2015\Projects\SplatEncrypt\SplatEncrypt\obj\Debug\SplatEncrypt.Form1.resources
+c:\users\sanel_000\documents\visual studio 2015\Projects\SplatEncrypt\SplatEncrypt\obj\Debug\SplatEncrypt.Properties.Resources.resources
+c:\users\sanel_000\documents\visual studio 2015\Projects\SplatEncrypt\SplatEncrypt\obj\Debug\SplatEncrypt.csproj.GenerateResource.Cache
+c:\users\sanel_000\documents\visual studio 2015\Projects\SplatEncrypt\SplatEncrypt\obj\Debug\SplatEncrypt.exe
+c:\users\sanel_000\documents\visual studio 2015\Projects\SplatEncrypt\SplatEncrypt\obj\Debug\SplatEncrypt.pdb
+c:\users\sanel_000\documents\visual studio 2015\Projects\SplatEncrypt\SplatEncrypt\obj\Debug\SplatEncrypt.Resources.resources
