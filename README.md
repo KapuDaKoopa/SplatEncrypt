@@ -22,7 +22,7 @@
 ###To get help, [click here](https://github.com/MCMiners9/SplatEncrypt/wiki) or download the source code and open the help folder.
 
 ## Auto Updating
-### I am working on a auto-updater for this project. You can view the ToDoList by going to [this link](https://github.com/MCMiners9/SplatEncrypt/)
+### I am working on a auto-updater for this project. You can view the ToDoList by going to [this link](https://github.com/MCMiners9/SplatEncrypt/blob/master/other/ToDoList.md)
 
 ## Contributing
 ### If you want to contribute, fork this repository, then make a new branch. Make all your changes in that branch, then submit a pull request.
