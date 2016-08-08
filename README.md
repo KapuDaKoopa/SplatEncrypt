@@ -14,5 +14,5 @@
 ![SplatEncrypt](http://i.imgur.com/b1OoPD3.png)
 
 ## SplatEncrypt Download Availability
-### SplatEncrypt is currently `NOT AVAILABLE` for download. `Last updated: 8/7/2016 by MCMiners9`
+### SplatEncrypt is currently `AVAILABLE` for download. `Last updated: 8/8/2016 by MCMiners9`
 
