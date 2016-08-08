@@ -1,0 +1,6 @@
+{
+  "name": "SplatEncrypt",
+  "tagline": "The source code for my new program, SplatEncrypt.",
+  "body": "# SplatEncrypt\r\n## Another program by MCMiners9, [click here](https://github.com/MCMiners9/SplatEncrypt/releases) to download it.\r\n\r\n## SplatEncrypt Download Availability\r\n### SplatEncrypt is currently `AVAILABLE` for download. `Last updated: 8/8/2016 by MCMiners9`\r\n\r\n## What is SplatEncrypt?\r\n### SplatEncrypt has nothing to do with Splatoon. The word Splat is there just because I wanted it to be there. But basically, SplatEncrypt is a file encryptor/decryptor and text encryptor/decryptor.\r\n\r\n## How do I get SplatEncrypt?\r\n### Click the link above, and download the EXE file. I don't see a Mac version of SplatEncrypt coming anytime soon, sorry Mac users.\r\n\r\n## Why are there so many files in this repository?\r\n### That, my noob, is called \"source code\". It's here because if someone wants to download it and make changes to their personal copy of SplatEncrypt, they can.\r\n\r\n## Screenshots\r\n![SplatEncrypt](http://i.imgur.com/b1OoPD3.png)\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
