@@ -1,4 +1,6 @@
 # SplatEncrypt
+
+[![Join the chat at https://gitter.im/splatencrypt-official-live-chat/Lobby](https://badges.gitter.im/splatencrypt-official-live-chat/Lobby.svg)](https://gitter.im/splatencrypt-official-live-chat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [Downloads](https://github.com/MCMiners9/SplatEncrypt/releases) | [Pull Requests](https://github.com/MCMiners9/SplatEncrypt/pulls) | [Issues](https://github.com/MCMiners9/SplatEncrypt/issues) | [Wiki](https://github.com/MCMiners9/SplatEncrypt/wiki) | [Contributing Help/Guidelines](https://github.com/MCMiners9/SplatEncrypt/blob/master/CONTRIBUTING.md)
 
 ## SplatEncrypt Download Availability
