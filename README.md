@@ -1,8 +1,8 @@
 # SplatEncrypt
-## Another program by MCMiners9, [click here](https://github.com/MCMiners9/SplatEncrypt/releases) to download it.
+[Downloads](https://github.com/MCMiners9/SplatEncrypt/releases) | [Pull Requests](https://github.com/MCMiners9/SplatEncrypt/pulls) | [Issues](https://github.com/MCMiners9/SplatEncrypt/issues) | [Wiki](https://github.com/MCMiners9/SplatEncrypt/wiki) | [Contributing Help/Guidelines](https://github.com/MCMiners9/SplatEncrypt/tree/master/blob/CONTRIBUTING.md)
 
 ## SplatEncrypt Download Availability
-### SplatEncrypt is currently `AVAILABLE` for download. `Last updated: 8/8/2016 by MCMiners9`
+### SplatEncrypt is currently `AVAILABLE` for download. Last updated: `8/21/2016` by `MCMiners9`
 
 ## What is SplatEncrypt?
 ### SplatEncrypt has nothing to do with Splatoon. The word Splat is there just because I wanted it to be there. But basically, SplatEncrypt is a file encryptor/decryptor and text encryptor/decryptor.
@@ -25,6 +25,6 @@
 ### I am working on a auto-updater for this project. You can view the ToDoList by going to [this link](https://github.com/MCMiners9/SplatEncrypt/blob/master/other/ToDoList.md)
 
 ## Contributing
-### If you want to contribute, fork this repository, then make a new branch. Make all your changes in that branch, then submit a pull request.
+### Please read the [Contribution Guidelines/Help](https://github.com/MCMiners9/SplatEncrypt/tree/master/blob/CONTRIBUTING.md) to contribute.
 
 ### I was inspired by looking at SplatAIO 2 to make this program.
