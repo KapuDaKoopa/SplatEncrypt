@@ -22,7 +22,7 @@
 ###To view the license, [click here](https://raw.githubusercontent.com/MCMiners9/SplatEncrypt/master/LICENSE)
 
 ## Help
-###To get help, [click here](https://github.com/MCMiners9/SplatEncrypt/wiki) or download the source code and open the help folder.
+###To get help, [click here](https://github.com/MCMiners9/SplatEncrypt/wiki) or download the source code and open the help folder. Or you can click the "chat on gitter" badge above to live chat with me about anything related to SplatEncrypt.
 
 ## Auto Updating
 ### I am working on a auto-updater for this project. You can view the ToDoList by going to [this link](https://github.com/MCMiners9/SplatEncrypt/blob/master/other/ToDoList.md)
