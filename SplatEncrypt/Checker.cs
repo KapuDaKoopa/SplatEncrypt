@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SplatAIO
+namespace SplatEncrypt
 {
     public partial class Checker : Form
     {
