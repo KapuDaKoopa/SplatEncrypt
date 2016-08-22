@@ -150,10 +150,8 @@ namespace SplatEncrypt
                             label2.Text = "The encryption operation failed";
                             MessageBox.Show("Error" + ex);
                         }
-                      
-                        }
                         break;
-                    }
+                        }
                 case "Decryption":
                     {
                         try
