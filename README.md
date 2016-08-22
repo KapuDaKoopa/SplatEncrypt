@@ -1,8 +1,6 @@
 # SplatEncrypt
 
-[Downloads](https://github.com/MCMiners9/SplatEncrypt/releases) | [Pull Requests](https://github.com/MCMiners9/SplatEncrypt/pulls) | [Issues](https://github.com/MCMiners9/SplatEncrypt/issues) | [Wiki](https://github.com/MCMiners9/SplatEncrypt/wiki) | [Contributing Help/Guidelines](https://github.com/MCMiners9/SplatEncrypt/blob/master/CONTRIBUTING.md)
-
-[![Join the chat at https://gitter.im/splatencrypt-official-live-chat/Lobby](https://badges.gitter.im/splatencrypt-official-live-chat/Lobby.svg)](https://gitter.im/splatencrypt-official-live-chat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[Downloads](https://github.com/MCMiners9/SplatEncrypt/releases) | [Pull Requests](https://github.com/MCMiners9/SplatEncrypt/pulls) | [Issues](https://github.com/MCMiners9/SplatEncrypt/issues) | [Wiki](https://github.com/MCMiners9/SplatEncrypt/wiki) | [Contributing Help/Guidelines](https://github.com/MCMiners9/SplatEncrypt/blob/master/CONTRIBUTING.md) | [![Join the chat at https://gitter.im/splatencrypt-official-live-chat/Lobby](https://badges.gitter.im/splatencrypt-official-live-chat/Lobby.svg)](https://gitter.im/splatencrypt-official-live-chat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ###Status of latest build/commit (updates everytime a new commit is made): [![Build status](https://ci.appveyor.com/api/projects/status/5e5td03wu66ufsel?svg=true)](https://ci.appveyor.com/project/MCMiners9/splatencrypt)
 
