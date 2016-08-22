@@ -4,7 +4,7 @@
 
 [![Join the chat at https://gitter.im/splatencrypt-official-live-chat/Lobby](https://badges.gitter.im/splatencrypt-official-live-chat/Lobby.svg)](https://gitter.im/splatencrypt-official-live-chat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Status of latest build/commit :[![Build status](https://ci.appveyor.com/api/projects/status/5e5td03wu66ufsel?svg=true)](https://ci.appveyor.com/project/MCMiners9/splatencrypt)
+Status of latest build/commit (updates everytime a new commit is made): [![Build status](https://ci.appveyor.com/api/projects/status/5e5td03wu66ufsel?svg=true)](https://ci.appveyor.com/project/MCMiners9/splatencrypt)
 
 ## SplatEncrypt Download Availability
 ### SplatEncrypt is currently `AVAILABLE` for download. Last updated: `8/21/2016` by `MCMiners9`
