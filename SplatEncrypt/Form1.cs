@@ -150,6 +150,11 @@ namespace SplatEncrypt
                             label2.Text = "The encryption operation failed";
                             MessageBox.Show("Error" + ex);
                         }
+                        catch (Exception ErrorSystem.Security.Cryptography.CryptographicException)
+                        {
+                            label2.Text = "Encryption has failed due to an unknown reason. Error EN-185. Please contact MCMiners9 and provide this error code for assistance."
+                            MessageBox.Show("Error" + ErrorSystem.Security.Cryptography.CryptographicException)
+                        }
                         break;
                     }
                 case "Decryption":
@@ -176,8 +181,16 @@ namespace SplatEncrypt
                             label2.Text = "Operation failed";
                             MessageBox.Show("Error" + ex);
                         }
-
-
+                        catch (Exception ErrorSystem.Security.CryptographyException)
+                        {
+                            label2.Text = "Decrypting the file failed. This is a known bug if you are running v1-beta or earlier"
+                            MessageBox.Show("Error" + ErrorSystem.Security.CryptographyException)
+                        }
+                        catch (Exception ErrorSystem.IO.IOException)
+                        {
+                            label2.Text = "The program cannot access this file because it is being used by another process. Please remove the file from that process and try again."
+                            MessageBox.Show("Error" + ErrorSystem.IO.IOException)
+                        }
                         break;
                         }
                     }
