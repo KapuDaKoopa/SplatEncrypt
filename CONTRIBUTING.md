@@ -7,6 +7,7 @@
 4. No false pull requests
 5. No pull requests that could damage the repository/program
 6. No malicious pull requests
+7. Found a bug and want to help fix it? If you manage to fix a bug in SplatEncrypt before I can, you get a bounty! Sounds neat, huh? (not sharing what it is tho)
 
 ## How to Contribute
 ### Method 1: Pull Request
